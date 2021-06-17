@@ -52,3 +52,8 @@ print(misDatos)
 nombre, dia, mes, agno=misDatos
 print(mes)
 
+# desempaquetado de tupla 2
+# Es decir, los nombres me los invento yo
+print(misDatos)
+nom, d, m, agn=misDatos
+print(m)
